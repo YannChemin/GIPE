@@ -15,3 +15,5 @@ To make it work in QGIS:
 3 - in QGIS=>Plugins=> Install from zip, select the zip file
 
 4 - Make sure the plugin is selected, it will appear in QGIS main Menu, near the Help Menu
+
+![GIPE menu](menu.png)
