@@ -1,0 +1,14 @@
+[general]
+name=GIPE Plugin
+qgisMinimumVersion=3.0
+description=GDAL Image Processing Environnement
+version=1.0
+author=Yann
+email=dr.yann.chemin@gmail.com
+about=This plugin adds GIPE menu with various Processing dialogs.
+category=Raster
+icon=icon.png
+homepage=https://your-plugin-homepage.example.com
+tracker=https://your-issue-tracker.example.com
+repository=https://your-repository.example.com
+
